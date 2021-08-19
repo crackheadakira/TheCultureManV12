@@ -1,0 +1,30 @@
+{
+  "name": "thecultureman",
+  "version": "1.0.0",
+  "description": "Gives you the cultured shit",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "crackheadakira",
+  "license": "ISC",
+  "dependencies": {
+    "anilist-node": "^1.9.1",
+    "ascii-table": "0.0.9",
+    "canvas": "^2.8.0",
+    "culture69": "^1.0.5",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^13.1.0",
+    "discord.js-pagination": "^1.0.3",
+    "djs-reaction-collector": "^2.9.3",
+    "hanime": "^1.2.1",
+    "imdb-api": "^4.4.1",
+    "kasu.nhentaiapi.js": "^2.9.2",
+    "mangadex-full-api": "^5.3.0",
+    "nodemon": "^2.0.12",
+    "rapid-api-imdb": "0.0.9",
+    "readdir-plus": "^1.1.1",
+    "yt-search": "^2.10.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
